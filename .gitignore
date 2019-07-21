@@ -4,6 +4,8 @@ Backup*
 _UpgradeReport_Files
 bin
 obj
+.vs/
+MigrationBackup/
 
 *.mdb
 *.pdb
