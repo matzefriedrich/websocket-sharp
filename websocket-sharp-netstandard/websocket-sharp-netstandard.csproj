@@ -7,7 +7,7 @@
     <AssemblyOriginatorKeyFile>websocket-sharp.snk</AssemblyOriginatorKeyFile>
     <DelaySign>false</DelaySign>
     <Description>A C# implementation of the WebSocket protocol client and server</Description>
-    <PackageId>WebSocketSharp</PackageId>
+    <PackageId>WebSocketSharp-Unofficial</PackageId>
     <Copyright>sta.blockhead</Copyright>
     <AssemblyVersion>1.0.2.0</AssemblyVersion>
     <Product>websocket-sharp-netstandard.dll</Product>
@@ -15,6 +15,7 @@
     <Authors>sta</Authors>
     <Version>1.0.2</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageTags>websocket</PackageTags>
   </PropertyGroup>
 
 </Project>
